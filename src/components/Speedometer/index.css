@@ -1,0 +1,41 @@
+.bg-container {
+  background-color: #07080c;
+  color: #ffffff;
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-style: italic;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  border-radius: 5px;
+  height: 30px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.btn-a {
+  background-color: #0b69ff;
+  color: #cbd5e1;
+  border: none;
+}
+
+.btn-b {
+  background-color: transparent;
+  color: #94a3b8;
+  border-color: #94a3b8;
+}
+
+.image {
+  height: 200px;
+  width: 500px;
+}
